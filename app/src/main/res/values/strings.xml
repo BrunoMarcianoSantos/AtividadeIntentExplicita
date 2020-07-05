@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AtividadeIntent</string>
+    <string name="nome">Insira seu nome</string>
+    <string name="email">Insira seu email</string>
+    <string name="cpf">Insira seu cpf</string>
+    <string name="cell">Insira seu celular</string>
+    <string name="enviar">Enviar dados</string>
+</resources>
