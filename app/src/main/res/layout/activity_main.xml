@@ -43,6 +43,19 @@
             android:hint="@string/cell"
             android:inputType="phone" />
 
+        <CheckBox
+            android:id="@+id/ckbSexo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/sexo" />
+
+        <Switch
+            android:id="@+id/swtEnviaremail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/enviaremail" />
+
         <Button
             android:id="@+id/btnEnviar"
             android:layout_width="match_parent"
